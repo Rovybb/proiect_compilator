@@ -1,0 +1,19 @@
+class om{
+    public a: integer;
+
+    constructor(age: integer) {
+        age = age;
+    }
+}
+
+nomod o: integer = 12;
+mod a[10]: integer;
+nomod aaab: integer;
+
+action log(a: integer): void{
+    log(a);
+}
+
+main(){
+    log( 10 );
+}

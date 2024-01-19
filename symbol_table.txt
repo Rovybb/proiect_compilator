@@ -1,0 +1,12 @@
+Scope: human Name: age Type: integer
+Scope: human Name: newAge Type: integer
+Scope: global Name: student1 Type: string
+Scope: global Name: year Type: integer
+Scope: global Name: student2 Type: string
+Scope: global Name: day Type: char
+Scope: add Name: a Type: integer
+Scope: add Name: b Type: integer
+Scope: global Name: add Type: integer Parameter types: integer integer 
+Scope: global Name: voidExample Type: void Parameter types: 
+Scope: main Name: student3 Type: string
+Scope: main Name: aNumber Type: integer
